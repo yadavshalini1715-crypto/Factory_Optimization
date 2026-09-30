@@ -1,0 +1,21 @@
+Order_ID	Product_Name	Factory	Customer_Region	Product_Weight_kg	Shipping_Distance_km	Lead_Time_days	Shipping_Cost	Product_Price	Profit	Demand	Factory_Capacity
+ORD001	Gummy Bears	Factory_A	East	2.5	420	3	85	220	135	120	500
+ORD002	Chocolate Bar	Factory_B	West	1.8	780	5	140	250	110	95	450
+ORD003	Jelly Beans	Factory_A	South	3	350	2	70	240	170	150	500
+ORD004	Lollipop	Factory_C	North	1.2	620	4	110	180	70	200	400
+ORD005	Candy Corn	Factory_B	East	2	560	4	95	210	115	180	450
+ORD006	Gummy Bears	Factory_C	West	2.5	900	6	155	220	65	100	400
+ORD007	Chocolate Bar	Factory_A	South	1.8	300	2	60	250	190	130	500
+ORD008	Jelly Beans	Factory_B	North	3	680	5	125	240	115	170	450
+ORD009	Lollipop	Factory_A	East	1.2	280	2	55	180	125	220	500
+ORD010	Candy Corn	Factory_C	South	2	470	3	80	210	130	160	400
+ORD011	Gummy Bears	Factory_B	East	2.5	510	4	90	220	130	140	450
+ORD012	Chocolate Bar	Factory_C	West	1.8	820	6	145	250	105	90	400
+ORD013	Jelly Beans	Factory_A	South	3	390	3	75	240	165	155	500
+ORD014	Lollipop	Factory_B	North	1.2	600	4	105	180	75	190	450
+ORD015	Candy Corn	Factory_A	East	2	330	2	65	210	145	175	500
+ORD016	Gummy Bears	Factory_C	West	2.5	850	6	150	220	70	110	400
+ORD017	Chocolate Bar	Factory_A	South	1.8	320	2	62	250	188	125	500
+ORD018	Jelly Beans	Factory_B	North	3	640	5	120	240	120	165	450
+ORD019	Lollipop	Factory_A	East	1.2	260	2	50	180	130	210	500
+ORD020	Candy Corn	Factory_C	South	2	490	3	82	210	128	155	400
